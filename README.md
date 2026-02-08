@@ -1,1 +1,2 @@
-# medical_vision_language_model_sycophancy
+# Medical Vision Language Model Sycophancy
+
